@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stress-mapper/static/css/main.8d6a17ca.css",
+    "main.js": "/stress-mapper/static/js/main.9017e549.js",
+    "static/js/787.ed2833e8.chunk.js": "/stress-mapper/static/js/787.ed2833e8.chunk.js",
+    "index.html": "/stress-mapper/index.html",
+    "main.8d6a17ca.css.map": "/stress-mapper/static/css/main.8d6a17ca.css.map",
+    "main.9017e549.js.map": "/stress-mapper/static/js/main.9017e549.js.map",
+    "787.ed2833e8.chunk.js.map": "/stress-mapper/static/js/787.ed2833e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a17ca.css",
+    "static/js/main.9017e549.js"
+  ]
+}
