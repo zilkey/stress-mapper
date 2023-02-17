@@ -1,0 +1,4 @@
+- https://github.com/Helsinki-NLP/prosody/
+- https://huggingface.co/blog/pretraining-bert
+- https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6
+- https://www.tensorflow.org/tfmodels/nlp/fine_tune_bert
